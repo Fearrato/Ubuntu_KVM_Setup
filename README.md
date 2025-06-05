@@ -6,7 +6,7 @@ This repository provides a comprehensive script to install, configure, and enabl
 
 ## Contents
 
-- `KVM_virtualization.sh`: Bash script automating the full setup
+- Bash script automating the full setup
 - Step-by-step guide in this README
 
 ---
