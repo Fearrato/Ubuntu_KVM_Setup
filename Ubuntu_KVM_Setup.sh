@@ -32,7 +32,6 @@ apt-get install -y \
   libguestfs-tools \
   libosinfo-bin \
   gir1.2-gtk-3.0 \
-  policykit-1 \
   wget \
   cockpit \
   cockpit-machines
